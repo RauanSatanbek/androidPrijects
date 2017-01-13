@@ -1,0 +1,27 @@
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    tools:context="ru.srba.android_menu.MainActivity"
+    android:id="@+id/menu" >
+        <item
+            android:id="@+id/red"
+            android:orderInCategory="100"
+            android:title="@string/action_item1"
+            app:showAsAction="never">
+            <!--<menu>-->
+            <!--<item android:id="@+id/Gray" android:title="Gray"></item>-->
+            <!--<item android:id="@+id/Yellow" android:title="Yellow"></item>-->
+            <!--</menu>-->
+        </item>
+        <item
+            android:id="@+id/blue"
+            android:orderInCategory="100"
+            android:title="@string/action_item2"
+            app:showAsAction="never" />
+        <item
+            android:id="@+id/green"
+            android:orderInCategory="100"
+            android:title="@string/action_item3"
+            app:showAsAction="never">
+        </item>
+</menu>

@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">Testing_all</string>
+    <string name="action_settings">Settings</string>
+    <string name="item1">Red</string>
+    <string name="item2">Green</string>
+    <string name="item3">Blue</string>
+</resources>

@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">Android_menu</string>
+    <string name="action_settings">Settings</string>
+    <string name="action_item1">red</string>
+    <string name="action_item2">blue</string>
+    <string name="action_item3">green</string>
+</resources>
